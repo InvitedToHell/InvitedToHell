@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Rust, JavaScript, C#, CSS, HTML,**
 
-- 📝 I’ll regularly write articles on [https://medium.hellyy.ml/](https://medium.hellyy.ml/)
-
 - 📫 How to reach me on Discord: **InvitedToHell#0001**
 
 <h3 align="left">Connect with me:</h3>
