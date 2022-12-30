@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust, JavaScript, C#, CSS, HTML,**
 
-- 📫 How to reach me on Discord: **InvitedToHell#0001**
+- 📫 How to reach me on Discord: **InvitedToHell#3453**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
