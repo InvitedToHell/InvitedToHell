@@ -3,7 +3,6 @@
 
 <p align="center">
     『 he/him 』
-    『 a pan 🍳 』
 </p>
 
 <p align="center">
@@ -12,7 +11,6 @@
 </p>
 
 - 🤥 By the way, I started my readme with [this](https://rahuldkjain.github.io/gh-profile-readme-generator/) and did many customizations. :>
-- 📚 Currently, I'm attending a grammar school where I'm aiming for the [Abitur](https://en.wikipedia.org/wiki/Abitur).
 - ✨ You can find projects I contribute at on my [projects](https://github.com/InvitedToHell?tab=repositories) tab.
 - 🐈 Just so you know, I'm a certified [catppuccin](https://github.com/catppuccin/) addict. :3
 - 🩸 If you have questions reach me out [here](https://hellyy.ml/)! x)
