@@ -13,7 +13,7 @@
 - 🤥 By the way, I started my readme with [this](https://rahuldkjain.github.io/gh-profile-readme-generator/) and did many customizations. :>
 - ✨ You can find projects I contribute at on my [projects](https://github.com/InvitedToHell?tab=repositories) tab.
 - 🐈 Just so you know, I'm a certified [catppuccin](https://github.com/catppuccin/) addict. :3
-- 🩸 If you have questions reach me out [here](https://hellyy.ml/)! x)
+- 🩸 If you have questions reach me out [here](https://helly.wtf/)! x)
 
 <h3 align="left">Languages</h3>
 <p align="left">
