@@ -1,9 +1,5 @@
 <h1 align="center">Hey, I'm Helly. 💕🦇</h1>
-<h3 align="center">student and hobby-developer</h3>
 
-<p align="center">
-    『 he/him 』
-</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/InvitedToHell/github-stats-transparent/output/generated/overview.svg">
