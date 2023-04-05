@@ -34,4 +34,3 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/469514043053309952)](https://discord.com/users/469514043053309952)
 
-[<img src="https://hits-app.vercel.app/hits?url=" />](https://hits.hop.sh/v1/hits?url=https://github.com/InvitedToHell/)
