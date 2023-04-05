@@ -1,6 +1,5 @@
-<h1 align="center">Hey, I'm Helly. 💕🦇</h1>
-[![Discord Presence](https://lanyard.cnrad.dev/api/469514043053309952)](https://discord.com/users/469514043053309952)
 
+<h1 align="center">Hey, I'm Helly.</h1>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/InvitedToHell/github-stats-transparent/output/generated/overview.svg">
@@ -31,3 +30,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" /></a>
 </p>
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/469514043053309952)](https://discord.com/users/469514043053309952)
+
