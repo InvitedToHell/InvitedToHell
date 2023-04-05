@@ -1,4 +1,5 @@
 <h1 align="center">Hey, I'm Helly. 💕🦇</h1>
+[![Discord Presence](https://lanyard.cnrad.dev/api/469514043053309952)](https://discord.com/users/469514043053309952)
 
 
 <p align="center">
