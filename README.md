@@ -1,10 +1,12 @@
 
 <h1 align="center">Hey, I'm Helly.</h1>
 
-<img src="https://lanyard.kyrie25.me/api/469514043053309952?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"/>
-
-
 <p align="center">
+<img src="https://lanyard.kyrie25.me/api/469514043053309952?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"/>
+</p>
+
+
+<p align="center">    
 <img src="https://raw.githubusercontent.com/InvitedToHell/github-stats-transparent/output/generated/overview.svg">
 <img src="https://raw.githubusercontent.com/InvitedToHell/github-stats-transparent/output/generated/languages.svg">
 </p>
