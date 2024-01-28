@@ -1,20 +1,15 @@
 
 <h1 align="center">Hey, I'm Helly.</h1>
 
-<p align="center">
-<img src="https://lanyard.kyrie25.me/api/469514043053309952?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"/>
-</p>
-
 
 <p align="center">    
 <img src="https://raw.githubusercontent.com/InvitedToHell/github-stats-transparent/output/generated/overview.svg">
 <img src="https://raw.githubusercontent.com/InvitedToHell/github-stats-transparent/output/generated/languages.svg">
 </p>
 
-- 🤥 By the way, I started my readme with [this](https://rahuldkjain.github.io/gh-profile-readme-generator/) and did many customizations. :>
-- ✨ You can find projects I contribute at on my [projects](https://github.com/InvitedToHell?tab=repositories) tab.
-- 🐈 Just so you know, I'm a certified [catppuccin](https://github.com/catppuccin/) addict. :3
-- 🩸 If you have questions reach me out [here](https://helly.wtf/)! x)
+- ✨ You can find projects [here](https://github.com/InvitedToHell?tab=repositories).
+- 🐈 Just so you know, I'm a certified [catppuccin](https://github.com/catppuccin/) addict.
+- 🩸 If you have questions reach me out [here](https://helly.wtf/)!
 
 <h3 align="left">Languages</h3>
 <p align="left">
@@ -37,5 +32,4 @@
 </p>
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/469514043053309952)](https://discord.com/users/469514043053309952)
 
